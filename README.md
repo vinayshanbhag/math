@@ -1,2 +1,2 @@
-# Colaboratory
-Colab Jupyter Notebooks
+# linear algebra and math concepts
+ 
