@@ -15,5 +15,7 @@ On linear algebra, math concepts and applications. To work out mathematical conc
 
 [Prime Spirals](https://github.com/vinayshanbhag/math/blob/master/prime_spiral.ipynb): Visualizing prime numbers on a polar plot (Ulam spirals). 3blue1brown's video at https://www.youtube.com/watch?v=EK32jo7i5LQ&feature=share
 
+[Weierstrass Function](https://github.com/vinayshanbhag/math/blob/master/Weierstrass.ipynb): A pathological real valued function that is continuous everywhere, yet differentiable nowhere
+
 [LaTeX](https://github.com/vinayshanbhag/math/blob/master/Latex_Quick_Reference.ipynb): LaTeX markdown quick reference for use in these notebooks
 
