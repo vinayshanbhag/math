@@ -17,5 +17,7 @@ On linear algebra, math concepts and applications. To work out mathematical conc
 
 [Weierstrass Function](https://github.com/vinayshanbhag/math/blob/master/Weierstrass.ipynb): A pathological real valued function that is continuous everywhere, yet differentiable nowhere
 
+[Interpolation](https://github.com/vinayshanbhag/math/blob/master/Interpolation.ipynb): Interpolation using scipy.interpolate
+
 [LaTeX](https://github.com/vinayshanbhag/math/blob/master/Latex_Quick_Reference.ipynb): LaTeX markdown quick reference for use in these notebooks
 
