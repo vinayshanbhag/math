@@ -9,6 +9,8 @@ On linear algebra, math concepts and applications. To work out mathematical conc
  
 [Eigen Decomposition](https://github.com/vinayshanbhag/math/blob/master/Eigen_Vectors.ipynb): Eigen Values and Vectors
 
+[Fourier Analysis](https://github.com/vinayshanbhag/math/blob/master/Fourier_Analysis.ipynb): Fourier analysis with numpy and scipy
+
 [Norm](https://github.com/vinayshanbhag/math/blob/master/Norm.ipynb): Euclidean, Taxicab and other vector norms
 
 [Projection Profile](https://github.com/vinayshanbhag/math/blob/master/ProjectionProfile.ipynb): Correcting document skew for imaging and machine learning applications
