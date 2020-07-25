@@ -11,6 +11,8 @@ On linear algebra, math concepts and applications. To work out mathematical conc
 
 [Pricipal Component Analysis](https://github.com/vinayshanbhag/math/blob/master/Principal_Component_Analysis.ipynb): Principal Component analysis with numpy
 
+[Linear Discriminant Analysis](https://github.com/vinayshanbhag/math/blob/master/Linear_Discriminant_Analysis.ipynb): Linear Discriminant Analysis with numpy
+
 [Fourier Analysis](https://github.com/vinayshanbhag/math/blob/master/Fourier_Analysis.ipynb): Fourier analysis with numpy and scipy
 
 [Norm](https://github.com/vinayshanbhag/math/blob/master/Norm.ipynb): Euclidean, Taxicab and other vector norms
