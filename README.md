@@ -1,7 +1,6 @@
-#### A collection of exploratory Jupyter notebooks... 
+#### A collection of Jupyter notebooks... 
 
-On linear algebra, math concepts and applications. To work out mathematical concepts by hand and visualize with numpy and pyplot. Code is intentionally sub-optimal.
-
+To explore mathematical concepts behind machine learning algorithms and understand their inner working. Code is intentionally sub-optimal.
 
 [Affine Transformations](https://github.com/vinayshanbhag/math/blob/master/Affine_Transformations.ipynb): Visualizing affine transformations in numpy
 
