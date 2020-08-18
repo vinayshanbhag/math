@@ -4,6 +4,8 @@ To explore mathematical concepts behind machine learning algorithms and understa
 
 [Expectation&ndash;Maximization in Gaussian Mixture models](https://github.com/vinayshanbhag/math/blob/master/Expectation_Maximization.ipynb): Expectation&ndash;Maximization in 1D Gaussian Mixture model using numpy
 
+[Univariate Linear Regression](https://github.com/vinayshanbhag/math/blob/master/Univariate_Linear_Regression.ipynb): Univariate Linear Regression in numpy
+
 [Affine Transformations](https://github.com/vinayshanbhag/math/blob/master/Affine_Transformations.ipynb): Visualizing affine transformations in numpy
 
 [Convolution Kernels](https://github.com/vinayshanbhag/math/blob/master/Convolution_Kernels.ipynb): Convolution matrices in image filtering applications
