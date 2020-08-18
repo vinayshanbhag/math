@@ -4,6 +4,8 @@ To explore mathematical concepts behind machine learning algorithms and understa
 
 [Expectation&ndash;Maximization in Gaussian Mixture models](https://github.com/vinayshanbhag/math/blob/master/Expectation_Maximization.ipynb): Expectation&ndash;Maximization in 1D Gaussian Mixture model using numpy
 
+[k-means clustering](https://github.com/vinayshanbhag/math/blob/master/K_means.ipynb): Explore the math behind k-means, an unsupervised clustering algorithm, and understand its limitations.
+
 [Univariate Linear Regression](https://github.com/vinayshanbhag/math/blob/master/Univariate_Linear_Regression.ipynb): Univariate Linear Regression in numpy
 
 [Affine Transformations](https://github.com/vinayshanbhag/math/blob/master/Affine_Transformations.ipynb): Visualizing affine transformations in numpy
