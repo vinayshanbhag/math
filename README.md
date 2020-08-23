@@ -14,7 +14,7 @@ To explore mathematical concepts behind machine learning algorithms and understa
  
 [Eigen Decomposition](https://github.com/vinayshanbhag/math/blob/master/Eigen_Vectors.ipynb): Eigen Values and Vectors
 
-[Pricipal Component Analysis](https://github.com/vinayshanbhag/math/blob/master/Principal_Component_Analysis.ipynb): Principal Component analysis with numpy
+[Principal Component Analysis](https://github.com/vinayshanbhag/math/blob/master/Principal_Component_Analysis.ipynb): Principal Component analysis with numpy
 
 [Linear Discriminant Analysis](https://github.com/vinayshanbhag/math/blob/master/Linear_Discriminant_Analysis.ipynb): Linear Discriminant Analysis with numpy
 
