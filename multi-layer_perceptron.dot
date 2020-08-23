@@ -1,0 +1,65 @@
+digraph G {
+    rankdir = LR;
+    label="Multi-layer Perceptron";
+    splines=false;
+    edge[style=invis];
+    ranksep= 1.4;
+    {
+    node [shape=circle, color=yellow, style=filled, fillcolor=yellow];
+    x0 [label=<x<sub>0</sub>>]; 
+    a02 [label=<a<sub>0</sub><sup>(2)</sup>>]; 
+    }
+    {
+    node [shape=circle, color=chartreuse, style=filled, fillcolor=chartreuse];
+    x1 [label=<x<sub>1</sub>>];
+    x2 [label=<x<sub>2</sub>>]; 
+    x3 [label=<x<sub>3</sub>>];
+    }
+    {
+    node [shape=circle, color=dodgerblue, style=filled, fillcolor=dodgerblue];
+    a12 [label=<a<sub>1</sub><sup>(2)</sup>>];
+    a22 [label=<a<sub>2</sub><sup>(2)</sup>>];
+    a32 [label=<a<sub>3</sub><sup>(2)</sup>>];
+    
+    }
+    {
+      node [shape=circle, color=coral1, style=filled, fillcolor=coral1];
+      O1 [label=<a<sub>1</sub><sup>(3)</sup>>];
+    }
+    {
+      node [shape=circle, color=white, style=filled, fillcolor=white];
+      O2 [label=<&#375;>];
+    }
+    {
+      rank=same;
+      x0->x1->x2->x3;
+    }
+    {
+      rank=same;
+      a02->a12->a22->a32;
+    }
+    {
+      rank=same;
+      O1;
+    }
+    
+    l1 [shape=plaintext, label="layer 1 (input layer)"];
+    l1->x0;
+    {rank=same; l1;x0};
+    l2 [shape=plaintext, label="layer 2 (hidden layer)"];
+    l2->a02;
+    {rank=same; l2;a02};
+    l3 [shape=plaintext, label="layer 3 (output layer)"];
+    l3->O1;
+    {rank=same; l3;O1};
+    l4 [shape=plaintext, label=""];
+    l4->O2;
+    {rank=same; l4;O2};
+    edge[style=solid, tailport=e, headport=w];
+    {x0}->{a12} [label=<w<sub>10</sub><sup>(1)</sup>>]
+    {x0}->{a22; a32}
+    {x3}->{a32} [label=<w<sub>33</sub><sup>(1)</sup>>]
+    {x1; x2; x3} -> {a12;a22;a32;};
+    {a02;a12;a22;a32} -> {O1,O1,O1,O1};
+    {O1}->{O2};
+}
