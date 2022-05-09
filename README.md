@@ -2,6 +2,8 @@
 
 To explore mathematical concepts behind machine learning algorithms and understand their inner working. Code is intentionally sub-optimal.
 
+[The Discrete Cosine Transform](https://github.com/vinayshanbhag/math/blob/master/Discrete_Cosine_Transform.ipynb): Understanding the Discrete Cosine Transform (DCT)
+
 [Expectation&ndash;Maximization in Gaussian Mixture models](https://github.com/vinayshanbhag/math/blob/master/Expectation_Maximization.ipynb): Expectation&ndash;Maximization in 1D Gaussian Mixture model using numpy
 
 [k-means clustering](https://github.com/vinayshanbhag/math/blob/master/K_means.ipynb): Explore the math behind k-means, an unsupervised clustering algorithm, and understand its limitations.
